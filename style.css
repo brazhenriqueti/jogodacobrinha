@@ -1,0 +1,34 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:aquamarine;
+    color:seagreen;
+     
+}
+
+.margin{
+
+    color: black;
+    padding-top: 70px;
+    padding-bottom: 5px;
+    font-size: 42px;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.border{
+    align-content: center;
+    border: black;
+    border-radius: 80px;
+    border-color: black;
+    
+}
+
+.foto{
+    padding-bottom: 50px;
+    border-radius: 180px;
+}
